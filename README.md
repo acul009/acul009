@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">🎮 I was working with minecraft redstone years before starting programming<br>❤️ I love open-source. I'm just not brave enough to publish everything I build for myself<br>✨ I enjoy self-hosting a personal cloud for me and my friends</p>
+<p align="left">
+  🎮 I was working with minecraft redstone years before starting programming
+  <br>
+  ❤️ I love open-source. I'm just not brave enough to publish everything I build for myself
+  <br>
+  🖥️ I enjoy self-hosting a personal cloud for me and my friends
+  <br>
+  ✨ I use vim bindings in vscode - I hope that pisses of everyone equally
+</p>
 
 ###
 
@@ -64,6 +72,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
